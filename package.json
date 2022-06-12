@@ -87,5 +87,8 @@
     },
     "version": "8, 10, 12, 14, 16"
   },
+  "publishConfig": {
+    "tag": "latest"
+  },
   "license": "MIT"
 }
